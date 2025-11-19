@@ -1,0 +1,5 @@
+wcenter,rswitch,bserver,bcourt,wjack
+rwave,xdrop,btrip,rcotton,rengine
+rlemon,worange,wninja,bvan,wlight
+bbow,rcell,rboot,bhotel,wgreece
+rduck,bmammoth,bnew york,wpress,rpit
